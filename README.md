@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jhenda2022
+- 👋 Hi, I’m Jhenda Cajeras.
 - 👀 I’m interested in coding, playing RPG games, karaoke, walking and sightseeing.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on data analyics and machine learning.
+- 🌱 I’m currently six months into learning Python. I already learned OOP, pandas, requests library, API, list comprehension, etc.
+- 💞️ I’m looking to collaborate on data analyics, data science and machine learning.
 - 📫 Reach me thru discord @pinKpusa#9039
 
 <!---
