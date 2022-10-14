@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jhen.
 - 👀 I’m interested in coding, playing RPG games, karaoke, walking and sightseeing.
 - 🌱 I’m currently nine months into learning programming. I already learned OOP, pandas, requests library, API, list comprehension, etc.
-- 💞️ I’m looking to collaborate on data analyics, data science and machine learning.
+- 💞️ I’m looking to collaborate on data analytics, data science and machine learning.
 - 📫 Reach me thru discord @pinKpusa#9039
 
 <!---
