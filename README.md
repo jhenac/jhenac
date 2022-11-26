@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jhenda.
+- 👋 Hi, I’m JC.
 - 👀 I’m interested in coding, playing RPG games, karaoke, walking and sightseeing.
 - 🌱 I’m currently learning programming. I already learned OOP, pandas, requests library, API, list comprehension, GUI, HTML, CSS, web scraping, Beautiful Soup, Selenium, etc.
 - 💞️ I’m looking to collaborate on data analytics, data science and machine learning.
