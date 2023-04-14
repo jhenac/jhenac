@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JC.
 - 👀 I’m interested in coding, playing RPG games, karaoke, walking and sightseeing.
-- 🌱 I’m currently learning programming. I already learned OOP, pandas, requests library, API requests, list comprehension, GUI, HTML, CSS, web scraping, Beautiful Soup, Selenium, flask framework with jinja templating, bootstrap, databases, SQL, sqlite, sqlalchemy, marshmallow, json, REST API, authentication, password hashing, etc.
+- 🌱 I’m currently learning programming. I already learned OOP, pandas, requests library, API requests, list comprehension, GUI, HTML, CSS, web scraping, Beautiful Soup, Selenium, flask framework with jinja templating, bootstrap, databases, SQL, sqlite, sqlalchemy, marshmallow, json, REST API, authentication, password hashing, PostgreSQL, matplotlib, data visualization etc.
 - 💞️ I’m looking to collaborate on web scraping and automation, backend development, data engineering, data analytics, data science and machine learning.
 - 📫 Reach me thru jacajeras@gmail.com
 
