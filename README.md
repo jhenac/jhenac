@@ -3,15 +3,15 @@
 - 📝 I started my programming journey in 2022 taking up Udemy's Python Zero to Hero course by Dr. Angela Yu. For two years now, I created several programs for personal projects, commissioned gigs, and in freelance capacity.
 - 🌱 I worked in a bank for twelve years prior to transitioning to an Analyts Programmer role for a remote client in 2023. I also do web scraping on the side presently.
 - 👩‍💻 Here are what I can do:
-- - Python programming including object-oriented programming principles
-- - SQL database design and administration (MySQL, SQLite, PostgreSQL)
-- - Familiarity with frontend languages like HTML, CSS, JS and Boostrap framework
-- - Web scraping with Selenium Webdriver, Beautiful Soup, and Requests
-- - Backend development with Flask framework and RESTful routing
-- - Code versioning with Git
-- - Familiarity with data analysis and visualization using pandas, plotly, matplotlib, seaborn
-- - Familiarity with data extraction and transformation using tools such as PowerBI and Tableau
-- - Expertise in using Excel and Google Sheet with advance functions and features such as VLookup, PivotTable, Ifs, Sumifs, Conditional Formatting, Text to Column, etc.
+-   ✅ Python programming including object-oriented programming principles
+-   ✅ SQL database design and administration (MySQL, SQLite, PostgreSQL)
+-   ✅ Familiarity with frontend languages like HTML, CSS, JS and Boostrap framework
+-   ✅ Web scraping with Selenium Webdriver, Beautiful Soup, and Requests
+-   ✅ Backend development with Flask framework and RESTful routing
+-   ✅ Code versioning with Git
+-   ✅ Familiarity with data analysis and visualization using pandas, plotly, matplotlib, seaborn
+-   ✅ Familiarity with data extraction and transformation using tools such as PowerBI and Tableau
+-   ✅ Expertise in using Excel and Google Sheet with advance functions and features such as VLookup, PivotTable, Ifs, Sumifs, Conditional Formatting, Text to Column, etc.
 - 💞️ My long term goal is to become either a backend software engineer or data engineer.
 - 📫 Reach me thru jacajeras@gmail.com or [linkedin.com/in/jacajeras/](https://www.linkedin.com/in/jacajeras/)
 
