@@ -1,6 +1,17 @@
-- 👋 Hi, I’m Jhens.
-- 👀 I’m interested in RPGs such as Mass Effect, Dragon Age, Elder Scrolls, and Sleeping Dogs. I like motorbike riding, cooking, and learning new skills and tools. My preferred shows are fantasy shows like The Sandman, Moon Knight, and Daredevil, comedy shows like Brooklyn Nine Nine and The IT Crowd, and some detective-esque shows like Sherlock and Prison Break.
-- 🌱 I have twelve years of banking and finance experience proficient in marketing, research, financial analysis and financial projection prior to pivoting into junior software engineering roles since 2022. I have handled creation of Python scripts for data extraction utilizing Beautiful Soup, Requests, and Selenium tools in a professional setting. I have created web apps with HTML, CSS, JS, & Bootstrap commissioned by master degree students. I have created and maintained an SQL database in a MySQL RDBMS utilized by a Kindergarten classroom to record student data, sex, schedule, contacts, and school contributions. I have created several personal projects in FE Development (static websites), game and app development with Python (GUI programming, Tkinter),  BE development (Flask, RESTful API), and data visualization (pandas, matplotlib, numpy, plotly, seaborn, google collab, jupyter notebook). 
+- 👋 Hi, I’m Jhens. I am a single parent to a young daughter, and I am passionate about programming and upskilling.
+- 👀 I also love to cook, sing at karaoke sessions, and ride a motorcycle. I prefer role-playing games like Mass Effect, Dragon Age, Elder Scrolls, and Sleeping Dogs. My TV genre are a mixed of fantasy, action, and comedy such as Daredevil, Sherlock, Moon Knight, IT Crowd, and Brooklyn Nine Nine.
+- 📝 I started my programming journey in 2022 taking up Udemy's Python Zero to Hero course by Dr. Angela Yu. For two years now, I created several programs for personal projects, commissioned gigs, and in freelance capacity.
+- 🌱 I worked in a bank for twelve years prior to transitioning to an Analyts Programmer role for a remote client in 2023. I also do web scraping on the side presently.
+- 👩‍💻 Here are what I can do:
+- - Python programming including object-oriented programming principles
+- - SQL database design and administration (MySQL, SQLite, PostgreSQL)
+- - Familiarity with frontend languages like HTML, CSS, JS and Boostrap framework
+- - Web scraping with Selenium Webdriver, Beautiful Soup, and Requests
+- - Backend development with Flask framework and RESTful routing
+- - Code versioning with Git
+- - Familiarity with data analysis and visualization using pandas, plotly, matplotlib, seaborn
+- - Familiarity with data extraction and transformation using tools such as PowerBI and Tableau
+- - Expertise in using Excel and Google Sheet with advance functions and features such as VLookup, PivotTable, Ifs, Sumifs, Conditional Formatting, Text to Column, etc.
 - 💞️ My long term goal is to become either a backend software engineer or data engineer.
 - 📫 Reach me thru jacajeras@gmail.com or [linkedin.com/in/jacajeras/](https://www.linkedin.com/in/jacajeras/)
 
