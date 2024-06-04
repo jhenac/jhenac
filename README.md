@@ -4,7 +4,7 @@
 - 🌱 I worked in a bank for twelve years prior to transitioning to an Analyts Programmer role for a remote client in 2023. I also do web scraping on the side presently.
 - 👩‍💻 Here are what I can do:
 -   ✅ Python programming including object-oriented programming principles
--   ✅ SQL database design and administration (MySQL, SQLite, PostgreSQL)
+-   ✅ SQL database design and management (MySQL, SQLite, PostgreSQL)
 -   ✅ Familiarity with frontend languages like HTML, CSS, JS and Boostrap framework
 -   ✅ Web scraping with Selenium Webdriver, Beautiful Soup, and Requests
 -   ✅ Backend development with Flask framework and RESTful routing
