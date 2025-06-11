@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jhens. I am a single parent to a young daughter, and I am passionate about programming and upskilling.
+- 👋 Hi, I’m @jhenac. I am a single parent to a young daughter, and I am passionate about programming and upskilling.
 - 👀 I also love to cook, sing at karaoke sessions, and ride a motorcycle. I prefer role-playing games like Mass Effect, Dragon Age, Elder Scrolls, and Sleeping Dogs. My TV genre are a mixed of fantasy, action, and comedy such as Daredevil, Sherlock, Moon Knight, IT Crowd, and Brooklyn Nine Nine.
-- 📝 I started my programming journey in 2022 taking up Udemy's Python Zero to Hero course by Dr. Angela Yu. For two years now, I created several programs for personal projects, commissioned gigs, and in freelance capacity.
+- 📝 I started my programming journey in 2022 taking up Udemy's Python Zero to Hero course by Dr. Angela Yu. For three years now, I created several programs for personal projects, commissioned gigs, and in freelance capacity.
 - 🌱 I worked in a bank for twelve years prior to transitioning to an Analyts Programmer role for a remote client in 2023. I also do web scraping on the side presently.
 - 👩‍💻 Here are what I can do:
 -   ✅ Python programming including object-oriented programming principles
@@ -16,6 +16,6 @@
 - 📫 Reach me thru jacajeras@gmail.com or [linkedin.com/in/jacajeras/](https://www.linkedin.com/in/jacajeras/)
 
 <!---
-Jhenda2022/Jhenda2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jhenac2022/jhenac2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
